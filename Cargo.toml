@@ -14,4 +14,4 @@ rational, and complex types.
 """
 
 [dependencies]
-rustc-serialize = "0.1"
+rustc-serialize = "0.2"
